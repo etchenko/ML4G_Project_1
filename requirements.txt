@@ -1,2 +1,7 @@
 numpy==2.5.3
 pandas==3.0.6
+pyBigWig==0.3.26
+scipy==1.18.1
+lightgbm==4.7.0
+matplotlib==3.11.2
+pyarrow==26.0.0
